@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-19">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/miglayout-swing.jar" sourcepath="lib/miglayout-swing-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Vision7Exteriors/lib/miglayout-swing-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/miglayout-core.jar" sourcepath="lib/miglayout-core-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Vision7Exteriors/lib/miglayout-core-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="jgoodies-common-1.8.0.jar" sourcepath="jgoodies-common-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="J:/descargas/librerias/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="J:/descargas/mysql-connector-java-8.0.29.jar"/>
+	<classpathentry kind="lib" path="C:/Progra II/Programas de clase/Java/Vision7Exteriors/Librerias/swingx-all-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Progra II/Programas de clase/Java/Vision7Exteriors/Librerias/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Progra II/Programas de clase/Java/Vision7Exteriors/Librerias/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Progra II/Programas de clase/Java/Vision7Exteriors/Librerias/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Progra II/Programas de clase/Java/Vision7Exteriors/Librerias/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Progra II/Programas de clase/Java/Vision7Exteriors/Librerias/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Progra II/Programas de clase/Java/Vision7Exteriors/Librerias/itextpdf-5.5.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
